@@ -54,7 +54,6 @@ Here's an example of a GitHub README for this project:
 
 # String Reversal
 
-![String Reversal Icon][]
 
 > **Reverse a string using recursion in Java**
 
@@ -72,7 +71,7 @@ This project demonstrates a recursive function that takes a string as input and 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/string-reversal.git
+   [git clone https://github.com/your-username/string-reversal.git](https://github.com/ARIBFIB/Recursive-String-Reversal-in-Java-Practice-Task-Lab.git)
    ```
 2. Compile and run the `StringReversal` class:
    ```
