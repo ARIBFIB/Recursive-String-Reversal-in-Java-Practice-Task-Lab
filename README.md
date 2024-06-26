@@ -3,6 +3,9 @@ Practice Task 4:  Implement a recursive function to reverse a string. For exampl
 
 # String Reversal
 
+![How it works (5)](https://github.com/ARIBFIB/Recursive-String-Reversal-in-Java-Practice-Task-Lab/assets/125716994/def1da54-9d50-4c33-a777-3ca99a228930)
+
+Youtube Link: https://youtu.be/FYO0omZbFFw
 
 ## Recursive String Reversal in Java
 ![image](https://github.com/ARIBFIB/Recursive-String-Reversal-in-Java-Practice-Task-Lab/assets/125716994/b40f5b57-fab1-4266-ac1f-20071ad481c3)
